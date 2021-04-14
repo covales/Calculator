@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="label_signo_division">/</string>
+    <string name="btnmc">MC</string>
+    <string name="btnmmenos">M-</string>
+    <string name="btnmmas">M+</string>
+    <string name="btnmr">MR</string>
+    <string name="btnc">C</string>
+    <string name="btnmultiplicar">X</string>
+    <string name="btnborrar">Borrar</string>
+    <string name="btnnro7">7</string>
+    <string name="btnnro8">8</string>
+    <string name="btnnro9">9</string>
+    <string name="btnmenos">-</string>
+    <string name="btnnro4">4</string>
+    <string name="btnnro5">5</string>
+    <string name="btnnro6">6</string>
+    <string name="btnmas">+</string>
+    <string name="btnnro1">1</string>
+    <string name="btnnro2">2</string>
+    <string name="btnnro3">3</string>
+    <string name="btnnroigual">=</string>
+    <string name="btnporcentaje">%</string>
+    <string name="btncoma">,</string>
+    <string name="btnnro0">0</string>
+    <string name="txtoperacion"></string>
+
+</resources>
